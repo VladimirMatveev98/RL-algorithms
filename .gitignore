@@ -1,0 +1,16 @@
+
+# Код, оставшийся на стадии прототипа
+*stable_baselines3_solution.py
+*SAC_solution.py
+*agent_visualization.py
+
+# Сохраняемые данные
+*ppo_mcc.pth
+*ppo_mcc.zip
+*ppo_obs_rms.pkl
+*sac_actor.pth
+*sac_env.pkl
+*vecnormalize.pkl
+
+venv/
+.idea/
